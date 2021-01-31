@@ -1,1 +1,2 @@
-# wi21-cse110-lab4
+Name: Shwet Chitnis
+UCSD email: s2chitni@ucsd.edu
